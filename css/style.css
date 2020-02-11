@@ -62,13 +62,13 @@ header{
     width: 100%;
     text-align: center;
     padding: 25px 0;
+    z-index: 999;
 }
 header ul li a{
     color: rgb(117, 89, 168);
     text-transform: uppercase;
     text-decoration: none;
     margin: 0 40px;
-    z-index: 15;
 }
 
 /*HEADER STICKY STYLE*/
