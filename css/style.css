@@ -62,7 +62,7 @@ header{
     width: 100%;
     text-align: center;
     padding: 25px 0;
-    z-index: 12;
+    z-index: 99;
 }
 header ul li a{
     color: rgb(117, 89, 168);
