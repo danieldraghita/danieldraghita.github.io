@@ -100,7 +100,7 @@ section{
     background-size: cover;
     background-position: center;
     background-color: #262626;
-    z-index: 9;
+    z-index: 11;
 }
 .home h1{
     color: rgb(117, 89, 168);
@@ -325,7 +325,7 @@ section{
     background: url(/CVHTML/media/PSX_20200129_113514.jpg) no-repeat;
     background-position: center;
     background-color: #262626;
-    z-index: 9;
+    z-index: 11;
     height: 850px;
     width: 100%;
     }
