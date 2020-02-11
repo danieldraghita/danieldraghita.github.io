@@ -56,7 +56,7 @@ table {
     position: fixed;
     width: 100%;
     height: 100%;
-    z-index: 12;
+    z-index: 13;
 }
 
 /*HEADER STYLE*/
@@ -67,7 +67,7 @@ header{
     width: 100%;
     text-align: center;
     padding: 25px 0;
-    z-index: 99;
+    z-index: 12;
 }
 header ul li a{
     color: rgb(117, 89, 168);
@@ -100,7 +100,7 @@ section{
     background-size: cover;
     background-position: center;
     background-color: #262626;
-    z-index: 13;
+    z-index: 11;
 }
 .home h1{
     color: rgb(117, 89, 168);
@@ -157,7 +157,7 @@ section{
     text-decoration: none;
     margin-top: 35px;
     position: relative;
-    z-index: 13;
+    z-index: 14;
 }
 .timeline{
     margin-top: 50px;
@@ -236,13 +236,14 @@ section{
     float: left;
     width: 30%;
     margin: 1%;
+    z-index: 14;
 }
 .interessen-info .col img{
     max-width: 100%;
 }
 #music{
     position: relative;
-    z-index: 11;
+    z-index: 14;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -325,7 +326,7 @@ section{
     background: url(/media/PSX_20200129_113514.jpg) no-repeat;
     background-position: center;
     background-color: #262626;
-    z-index: 13;
+    z-index: 11;
     height: 850px;
     width: 100%;
     }
