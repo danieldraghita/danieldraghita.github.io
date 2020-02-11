@@ -95,7 +95,6 @@ section{
     background-size: cover;
     background-position: center;
     background-color: #262626;
-    z-index: 11;
 }
 .home h1{
     color: rgb(117, 89, 168);
